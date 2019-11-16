@@ -33,5 +33,5 @@ The task was to build an algorithm for finding operational and conservative (usi
 <a href="https://www.youtube.com/watch?v=J4T70o8gjlk">**2. Manoj, Mathew. Analytic Hierarchy Process (AHP). 2018.**</a><br />
 3. Saaty, Thomas L. Decision Making for Leaders: The Analytic Hierarchy Process for Decisions in a Complex World. RWS Publications, 1990.<br />
 <a href = "https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3">**4. Mallawaarachchi, Vijini. Introduction to Genetic Algorithms. 2017.**</a><br />
-<a href = "https://www.youtube.com/watch?v=1i8muvzZkPw">**5. What Is a Genetic Algorithm. 2015.**</a><br />
+<a href = "https://www.youtube.com/watch?v=1i8muvzZkPw">**5. What is a Genetic Algorithm. 2015.**</a><br />
 6. Goldberg, David E. Genetic Algorithms in Search, Optimization & Machine Learning. Addison-Wesley Publishing Company, Inc., 1989, p. 432.
