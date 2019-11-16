@@ -12,9 +12,9 @@ The task was to build an algorithm for finding operational and conservative (usi
 
 ### Group method of data handling (GMDH) ###
 - GMDH was used for building classification models.
-- Models were built in <a target="_blank" rel="noopener noreferrer" href="https://gmdhsoftware.com/docs/">**GMDH Shell DS**</a> software
+- Models were built in <a href="https://gmdhsoftware.com/docs/">**GMDH Shell DS**</a> software.
 - Data sample was divided into training (**85%**) and test (**15%**) samples.
-- In total, <b>18 models</b> were built.
+- In total, **18 models** were built.
 - Accuracy of models on test sample varies from **75.9%** to **96.6%**.
 - Sensitivity on test sample varies from **0.814** to **1**.
 - Specificity on test sample varies from **0.73** to **1**.
@@ -29,9 +29,9 @@ The task was to build an algorithm for finding operational and conservative (usi
 
 ## Sources ##
 
-<a target="_blank" rel="noopener noreferrer" href="http://www.gmdh.net/">**1. Group Method of Data Handling.**</a><br />
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=J4T70o8gjlk">**2. Manoj, Mathew. Analytic Hierarchy Process (AHP). 2018.**</a><br />
+<a href="http://www.gmdh.net/">**1. Group Method of Data Handling.**</a><br />
+<a href="https://www.youtube.com/watch?v=J4T70o8gjlk">**2. Manoj, Mathew. Analytic Hierarchy Process (AHP). 2018.**</a><br />
 3. Saaty, Thomas L. Decision Making for Leaders: The Analytic Hierarchy Process for Decisions in a Complex World. RWS Publications, 1990.<br />
-<a target="_blank" rel="noopener noreferrer" href = "https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3">**4. Mallawaarachchi, Vijini. Introduction to Genetic Algorithms. 2017.**</a><br />
-<a target="_blank" rel="noopener noreferrer" href = "https://www.youtube.com/watch?v=1i8muvzZkPw">**5. What Is a Genetic Algorithm. 2015.**</a><br />
+<a href = "https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3">**4. Mallawaarachchi, Vijini. Introduction to Genetic Algorithms. 2017.**</a><br />
+<a href = "https://www.youtube.com/watch?v=1i8muvzZkPw">**5. What Is a Genetic Algorithm. 2015.**</a><br />
 6. Goldberg, David E. Genetic Algorithms in Search, Optimization & Machine Learning. Addison-Wesley Publishing Company, Inc., 1989, p. 432.
