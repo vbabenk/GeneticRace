@@ -12,7 +12,7 @@ The task was to build an algorithm for finding operational and conservative (usi
 
 ### Group method of data handling (GMDH) ###
 - GMDH was used for building classification models.
-- Models were built in <a href="https://gmdhsoftware.com/docs/" target="_blank">**GMDH Shell DS**</a> software
+- Models were built in <a target="_blank" href="https://gmdhsoftware.com/docs/">**GMDH Shell DS**</a> software
 - Data sample was divided into training (**85%**) and test (**15%**) samples.
 - In total, <b>18 models</b> were built.
 - Accuracy of models on test sample varies from **75.9%** to **96.6%**.
@@ -29,14 +29,9 @@ The task was to build an algorithm for finding operational and conservative (usi
 
 ## Sources ##
 
-<a href="http://www.gmdh.net/">**1. Group Method of Data Handling.**</a>
-
-<a href = "https://www.youtube.com/watch?v=J4T70o8gjlk">**2. Manoj, Mathew. Analytic Hierarchy Process (AHP). 2018.**</a>
-
+<a target="_blank" href="http://www.gmdh.net/">**1. Group Method of Data Handling.**</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=J4T70o8gjlk">**2. Manoj, Mathew. Analytic Hierarchy Process (AHP). 2018.**</a>
 3. Saaty, Thomas L. Decision Making for Leaders: The Analytic Hierarchy Process for Decisions in a Complex World. RWS Publications, 1990.
-
-<a href = "https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3">**4. Mallawaarachchi, Vijini. Introduction to Genetic Algorithms. 2017.**</a>
-
-<a href = "https://www.youtube.com/watch?v=1i8muvzZkPw">**5. What Is a Genetic Algorithm. 2015.**</a>
-
+<a target="_blank" href = "https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3">**4. Mallawaarachchi, Vijini. Introduction to Genetic Algorithms. 2017.**</a>
+<a target="_blank" href = "https://www.youtube.com/watch?v=1i8muvzZkPw">**5. What Is a Genetic Algorithm. 2015.**</a>
 6. Goldberg, David E. Genetic Algorithms in Search, Optimization & Machine Learning. Addison-Wesley Publishing Company, Inc., 1989, p. 432.
