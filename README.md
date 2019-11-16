@@ -2,7 +2,7 @@
 <a><img src="https://github.com/vbabenk/GeneticRace/blob/master/Babenko/Images/logo.png" title="GeneticRace" alt="GeneticRace"></a>
 
 ## Description
-This is bachelor's thesis project for Igor Sikorsky Kyiv Polytechnic Institute.
+This is bachelor thesis project for Igor Sikorsky Kyiv Polytechnic Institute.
 
 Project is a system for finding a treatment strategy for patients with congenital heart defects with a single ventricle using group method of data handling, analytic hierarchy process and genetic algorithms
 
