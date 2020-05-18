@@ -1,3 +1,7 @@
+// Copyright © 2019. All rights reserved.
+// Authors: Vitalii Babenko, Anastasiia Dydyk
+// Contacts: vbabenko2191@gmail.com
+
 package GeneticRace.classes;
 
 public class Patient {
