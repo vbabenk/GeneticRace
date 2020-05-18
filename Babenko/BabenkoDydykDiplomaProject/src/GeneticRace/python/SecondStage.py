@@ -1,3 +1,7 @@
+# Copyright © 2019. All rights reserved.
+# Authors: Vitalii Babenko, Anastasiia Dydyk
+# Contacts: vbabenko2191@gmail.com
+
 from random import randint, choices
 import copy
 from scipy.stats.mstats import gmean
