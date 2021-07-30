@@ -25,7 +25,7 @@ The task was to build an algorithm for finding operational and conservative (usi
 
 ### Genetic algorithm (GA) ###
 - GA was used to quickly find a treatment strategy.
-- In average, solution is found in **20 seconds** and **700 iterations** of the GA's cycle.
+- In average, solution is found in **20 seconds** (or **700 iterations**) of the GA's cycle.
 
 ## Sources ##
 
